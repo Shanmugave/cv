@@ -1,0 +1,55 @@
+.header{
+  background: rgb(179, 179, 179);
+  background-image: linear-gradient( to right top, white, rgb(79, 108, 233));
+}
+.nav justify-content-center{
+  color: aliceblue;
+}
+
+
+.bg{
+  background-color: gray;
+  border-style:solid;
+
+}
+
+ul.nav li a{
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#body{
+  margin-top: 5px;
+}
+
+#left{
+  background-color: rgb(150, 147, 147);
+  height: 500px;
+  border-radius:  0px 0px 0px 12px;;
+}
+#right{
+  background-color: rgb(255, 255, 255);
+  border-radius: 0px 0px 12px 0px;
+  border-color: black;
+  border: 10px;
+  font-weight: 900;
+  font-family: Arial;
+  font-style: italic;
+  text-align: center;
+}
+
+
+h1{
+  font-weight: 900;
+}
+
+#footer{
+  background-color: rgb(147, 147, 148);
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  font-weight:600;
+  font-size: small;
+  height: 50px;
+}
